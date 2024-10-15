@@ -7,7 +7,12 @@
 - Telegram: @ddudaevv
 - ⚡ Fun fact:
     I can solve a Rubik's cube in under 40 seconds!
-
+## My Skills
+- JavaScript, TypeScript
+- Vue, React
+- NuxtJS, NextJS
+- Pinia, ReduxToolkit
+- SCSS, LESS
 <!---
 DudaevDenii/DudaevDenii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
